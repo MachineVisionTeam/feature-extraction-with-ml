@@ -1,0 +1,8 @@
+Model,Weight
+Logistic_Regression,
+Decision_Tree,
+Random_Forest,
+XGBoost,
+LightGBM,
+SVM,
+Gradient_Boosting,

@@ -1,0 +1,8 @@
+Model,Weight
+Logistic_Regression,0.27573062261753495
+Decision_Tree,0.0
+Random_Forest,0.0
+XGBoost,0.590851334180432
+LightGBM,0.0
+SVM,0.13341804320203304
+Gradient_Boosting,0.0
