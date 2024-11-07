@@ -69,15 +69,6 @@ The results indicate that **ensemble models** consistently outperform individual
 
 ---
 
-## Scripts Overview
-
-- **Feature Extraction (`feature_extraction.py`)**: Extracts relevant features from histopathological images.
-- **Feature Selection (`feature_selection.py`)**: Optimizes the feature set.
-- **Model Training (`model_training.py`)**: Trains machine learning models on the selected features.
-- **Evaluation (`evaluation.py`)**: Computes metrics to evaluate model performance.
-
----
-
 ## Results Directory (`results/`)
 
 Contains evaluation metrics, tables, and plots generated from feature extraction and machine learning experiments.
